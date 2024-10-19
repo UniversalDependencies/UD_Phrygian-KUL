@@ -18,10 +18,10 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 
 ## References
 
-* Depauw, M., & Gheldof, T. (2014). Trismegistos. An interdisciplinary Platform for Ancient World Texts and Related Information. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, J. Schirrwagen (Eds.), Theory and Practice of Digital Libraries - TPDL 2013 Selected Workshops (Communications in Computer and Information Science 416), 40–52.
-* Hämmig, A. E. (2022). A “new” Neo-Phrygian curse formula. In B. Obrador-Cursach & I.-X. Adiego (Eds.), Phrygian linguistics and epigraphy: new insights (pp. 89-102). Universitat de Barcelona.
-* Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), Handbook of Comparative and Historical Indo-European Linguistics, 1816-1831. De Gruyter Mouton.
-* Obrador-Cursach, B. (2020). The Phrygian Language. Brill.
+* Depauw, M., & Gheldof, T. (2014). Trismegistos. An interdisciplinary Platform for Ancient World Texts and Related Information. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, J. Schirrwagen (Eds.), _Theory and Practice of Digital Libraries - TPDL 2013 Selected Workshops (Communications in Computer and Information Science 416)_, 40–52.
+* Hämmig, A. E. (2022). A “new” Neo-Phrygian curse formula. In B. Obrador-Cursach & I.-X. Adiego (Eds.), _Phrygian linguistics and epigraphy: new insights_ (pp. 89-102). Universitat de Barcelona.
+* Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), _Handbook of Comparative and Historical Indo-European Linguistics_, 1816-1831. De Gruyter Mouton.
+* Obrador-Cursach, B. (2020). _The Phrygian Language_. Brill.
 * Peeters, O. (2024). _Fragments and Formula: An annotated corpus for the Phrygian language_ (Master's thesis). KU Leuven.
 
 
