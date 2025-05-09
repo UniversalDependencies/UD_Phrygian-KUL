@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Phrygian-KUL:
-commit 6eac2df40bee3a79cce06faf105e593b00e5d6e0
+commit d9402bc87894060a1995e74a2e668782c0b6c334
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 12:41:55 2024 +0100
+Date:   Mon Nov 11 16:22:05 2024 +0100
 Size: counted 1687 of 1687 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.04590360712766.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,18 +23,30 @@ Udapi:
                TOTAL         37
 Udapi: found 37 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 1687 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang xpg --max-err=10 UD_Phrygian-KUL/xpg_kul-ud-test.conllu
+[Line 112 Sent TM984524|3 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+[Line 164 Sent TM978063|2 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+[Line 187 Sent TM984526|1 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+[Line 196 Sent TM984526|1 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'τος νι' does not have the 'ExtPos' feature
+[Line 208 Sent TM867154|1 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+[Line 243 Sent TM984527|2 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+[Line 261 Sent TM984528|1 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+[Line 284 Sent TM984529|1 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+[Line 307 Sent TM919107|2 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '[ι]ος νι' does not have the 'ExtPos' feature
+[Line 371 Sent TM984531|1 Node 25]: [L3 Warning fixed-without-extpos] Fixed expression 'ιος νι' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+Warnings: 79
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.0757050275297084) = 0.0194115455204381
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
 (weight=0.307692307692308) * (score{udapi}=0.78067575577949) = 0.240207924855228
 (weight=0.0769230769230769) * (score{udeprels}=0.702702702702703) = 0.0540540540540541
-(TOTAL score=0.540430688833943) * (availability=1) * (validity=1) = 0.540430688833943
+(TOTAL score=0.540179306229619) * (availability=1) * (validity=1) = 0.540179306229619
 STARS = 2.5
-UD_Phrygian-KUL	0.540430688833943	2.5
+UD_Phrygian-KUL	0.540179306229619	2.5
