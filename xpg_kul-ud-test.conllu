@@ -248,7 +248,7 @@
 6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	csubj	_	Ref=TM984527|2|6
 7	αιν’	aini	CCONJ	_	_	9	cc	_	Ref=TM984527|2|7
 8	αδ	ad	ADP	_	_	9	case	_	Ref=TM984527|2|8
-9	τεαμα̣ς	ατεαμα	NOUN	_	Case=Dat|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984527|2|9
+9	τεαμα̣ς	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM984527|2|9
 10	,	,	PUNCT	_	_	11	punct	_	Ref=TM984527|2|10
 11	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984527|2|11
 12	ασ	as	ADP	_	_	13	case	_	Ref=TM984527|2|12
@@ -288,7 +288,7 @@
 5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984529|1|5
 6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	csubj	_	Ref=TM984529|1|6
 7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984529|1|7
-8	τιαμας	ατεαμα	NOUN	_	Case=Dat|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984529|1|8
+8	τιαμας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM984529|1|8
 9	,	,	PUNCT	_	_	12	punct	_	Ref=TM984529|1|9
 10	α	ad	ADP	_	_	11	case	_	Ref=TM984529|1|10
 11	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	Ref=TM984529|1|11
@@ -311,7 +311,7 @@
 5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM919107|2|5
 6	αδακε̣τ̣	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	Ref=TM919107|2|6
 7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM919107|2|7
-8	ατεαμας	ατεαμα	NOUN	_	Case=Dat|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM919107|2|8
+8	ατεαμας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM919107|2|8
 9	,	,	PUNCT	_	_	13	punct	_	Ref=TM919107|2|9
 10	με	με1	ADP	_	_	11	case	_	Ref=TM919107|2|10
 11	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	Ref=TM919107|2|11
@@ -464,7 +464,7 @@
 6	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM984534|2|6
 7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	Ref=TM984534|2|7
 8	αιν’	aini	CCONJ	_	_	9	cc	_	Ref=TM984534|2|8
-9	ατεαμα	ατεαμα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No|Ref=TM984534|2|9
+9	ατεαμα	ατεαμα	NOUN	_	Case=Dat|Number=Sing	5	conj	_	SpaceAfter=No|Ref=TM984534|2|9
 10	,	,	PUNCT	_	_	7	punct	_	Ref=TM984534|2|10
 11	ις	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	Ref=TM984534|2|11
 12	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	Ref=TM984534|2|12
@@ -824,7 +824,7 @@
 5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918556|2|5
 6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM918556|2|6
 7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM918556|2|7
-8	α	ατεαμα	NOUN	_	Case=Dat|Number=Sing|Typo=Yes	4	conj	_	Ref=TM918556|2|8
+8	α	ατεαμα	NOUN	_	Case=Dat|Number=Plur|Typo=Yes	4	conj	_	Ref=TM918556|2|8
 9	[τεαμας?]	_	X	_	_	8	goeswith	_	Ref=TM918556|2|9
 
 # sent_id = TM846124|1
@@ -895,7 +895,7 @@
 7	αινι	aini	CCONJ	_	_	10	cc	_	Ref=TM884470|2|7
 8	σα	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Ref=TM884470|2|8
 9	τ[ο]υ	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	8	fixed	_	Ref=TM884470|2|9
-10	τε͜αμας	ατεαμα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM884470|2|10
+10	τε͜αμας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM884470|2|10
 11	,	,	PUNCT	_	_	13	punct	_	Ref=TM884470|2|11
 12	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	Ref=TM884470|2|12
 13	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM884470|2|13
@@ -1322,7 +1322,7 @@
 6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	Ref=TM845306|1|6
 7	αινι	aini	CCONJ	_	_	9	cc	_	Ref=TM845306|1|7
 8	α	as	ADP	_	_	9	case	_	Ref=TM845306|1|8
-9	τεα̣μ̣[ας	ατεαμα	NOUN	_	Case=Acc	6	conj	_	SpaceAfter=No|Ref=TM845306|1|9
+9	τεα̣μ̣[ας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	6	conj	_	SpaceAfter=No|Ref=TM845306|1|9
 10	,	,	PUNCT	_	_	6	punct	_	Ref=TM845306|1|10
 11	α]	ad	ADP	_	_	12	case	_	Ref=TM845306|1|11
 12	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	Ref=TM845306|1|12
