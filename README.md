@@ -27,6 +27,9 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Implementation of ExtPos.
+  * Corrections in annotation.
 * 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
 
