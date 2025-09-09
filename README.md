@@ -39,6 +39,7 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction
 Lemmas: manual native
 UPOS: manual native
