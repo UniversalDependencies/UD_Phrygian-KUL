@@ -22,7 +22,7 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 * Hämmig, A. E. (2022). A “new” Neo-Phrygian curse formula. In B. Obrador-Cursach & I.-X. Adiego (Eds.), _Phrygian linguistics and epigraphy: new insights_ (pp. 89-102). Universitat de Barcelona.
 * Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), _Handbook of Comparative and Historical Indo-European Linguistics_, 1816-1831. De Gruyter Mouton.
 * Obrador-Cursach, B. (2020). _The Phrygian Language_. Brill.
-* Peeters, O. (2024). _Fragments and Formula: An annotated corpus for the Phrygian language_ (Master's thesis). KU Leuven.
+* Peeters, O. (2024). _Fragments and Formula: An annotated corpus for the Phrygian language_ (0832354_57760851) [Master's thesis, KU Leuven]. Teneo. https://repository.teneo.libis.be/delivery/DeliveryManagerServlet?dps_pid=IE21049119&
 
 
 # Changelog
