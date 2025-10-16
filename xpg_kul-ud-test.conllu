@@ -532,7 +532,7 @@
 43	αργμενα[.?]	αργμενα[.?]	X	_	_	1	dep	_	Ref=TM984535|1|43
 44	ο̣π̣αρικο	οπαρικο	X	_	_	1	dep	_	Ref=TM984535|1|44
 45	οαν	va	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	1	dep	_	Ref=TM984535|1|45
-46	οεαυται	venavtun	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Reflex=Yes|PronType=Emp	1	dep	_	Ref=TM984535|1|46
+46	οεαυται	venavtun	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Emp|Reflex=Yes	1	dep	_	Ref=TM984535|1|46
 47	ις	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	1	dep	_	Ref=TM984535|1|47
 48	κε	ke	CCONJ	_	_	47	cc	_	Ref=TM984535|1|48
 49	εν̣	εν	ADP	_	_	1	dep	_	Ref=TM984535|1|49
