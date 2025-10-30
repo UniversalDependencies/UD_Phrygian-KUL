@@ -9,7 +9,7 @@ UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian lan
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
-Since the data are epigraphic, the sentences can be linked to various metadata through stable identifiers provided by Trismegistos (https://www.trismegistos.org/tm/index.php; cf. Depauw & Gheldof, 2014). This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
+Since the data are epigraphic, the sentences can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (cf. Depauw & Gheldof, 2014). This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
 
 
 # Acknowledgments
