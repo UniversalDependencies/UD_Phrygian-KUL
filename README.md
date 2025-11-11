@@ -9,7 +9,7 @@ UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian lan
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
-Since the data are epigraphic, the sentences can be linked to various metadata through stable identifiers provided by Trismegistos (https://www.trismegistos.org/tm/index.php; cf. Depauw & Gheldof, 2014). This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
+Since the data are epigraphic, the inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (cf. Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a pipe (|) and included in the MISC field. This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
 
 
 # Acknowledgments
@@ -22,11 +22,14 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 * Hämmig, A. E. (2022). A “new” Neo-Phrygian curse formula. In B. Obrador-Cursach & I.-X. Adiego (Eds.), _Phrygian linguistics and epigraphy: new insights_ (pp. 89-102). Universitat de Barcelona.
 * Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), _Handbook of Comparative and Historical Indo-European Linguistics_, 1816-1831. De Gruyter Mouton.
 * Obrador-Cursach, B. (2020). _The Phrygian Language_. Brill.
-* Peeters, O. (2024). _Fragments and Formula: An annotated corpus for the Phrygian language_ (Master's thesis). KU Leuven.
+* Peeters, O. (2024). _Fragments and Formula: An annotated corpus for the Phrygian language_ (0832354_57760851) [Master's thesis, KU Leuven]. Teneo. https://repository.teneo.libis.be/delivery/DeliveryManagerServlet?dps_pid=IE21049119&
 
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Implementation of ExtPos.
+  * Corrections in annotation.
 * 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
 
@@ -36,6 +39,7 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction
 Lemmas: manual native
 UPOS: manual native

@@ -20,11 +20,11 @@
     <tag name="ADV">16</tag><!-- kakey, kan, υψοδαν, me2, εικ, ερα -->
     <tag name="AUX">92</tag><!-- ituv -->
     <tag name="CCONJ">111</tag><!-- ke, aini, ai, ακκε, eti -->
-    <tag name="DET">111</tag><!-- σεμουν, τος, va, ιοι, kos, τις -->
+    <tag name="DET">108</tag><!-- σεμουν, τος, va, ιοι, kos, τις -->
     <tag name="NOUN">347</tag><!-- κακουν, κνουμανει, ζεμελως, devos, μανκα, ουταν, ατεαμα, βεκος, veban, μουρουν -->
     <tag name="NUM">1</tag><!-- πινκε -->
-    <tag name="PART">82</tag><!-- ni, τος, me2, υ -->
-    <tag name="PRON">151</tag><!-- ios, τος, ιοι, αυτος, σεμουν, kos, va, _, venavtun, τις -->
+    <tag name="PART">86</tag><!-- ni, τος, me2, υ -->
+    <tag name="PRON">150</tag><!-- ios, τος, ιοι, αυτος, σεμουν, kos, va, _, venavtun, τις -->
     <tag name="PROPN">106</tag><!-- τιε, βας, ξευνε, δαδων, λευκις, μιμογας, manes, αδενπα̣τ̣η̣ς, αδιθρερακ, ακαλας -->
     <tag name="PUNCT">209</tag><!-- ., ,, punct -->
     <tag name="SYM">57</tag><!-- [–-], ❧, ☩, [.] -->
@@ -32,34 +32,37 @@
     <tag name="X">82</tag><!-- _, παρτης, [–-], ασται, δεκμουταις, κοννου, οκκαυγοι, τε, ..]ι, .μαρδι -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="28">
+  <feats unique="31">
     <feat name="Aspect" value="Perf" upos="VERB">95</feat><!-- τιττετικμενος, τιτετικμενος, γεγρειμεναν, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος -->
-    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,PRON,PROPN,VERB,X">183</feat><!-- κακουν, κακον, ουταν, γεγρειμεναν, βαταν, μανκαν, ουεβαν, ταν, τιαν, βεκος -->
-    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PRON,PROPN,X">360</feat><!-- σεμουν, κνουμανει, τιε, κνουμανε, σεμον, τι, ζεμελως, οι, σα, δεως -->
-    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,PRON,PROPN">26</feat><!-- τιος, αργου, ακαλας, ακε̣?νικου, αωρω, δαδου, δουμ?ετυου, εκατηας, ιου, κναικο⟨ς⟩ -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON,PROPN,VERB,X">256</feat><!-- ιος, τιττετικμενος, τιτετικμενος, [ιος, [ι]ος, τος, βας, ις, κος, βεκος -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN,VERB,X">108</feat><!-- σα, ουταν, γεγρειμεναν, μανκα, μανκαι, μανκαν, σας, ταν, ευκιν, ουα -->
-    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,PRON,PROPN,VERB,X">382</feat><!-- ιος, τιε, τι, τιττετικμενος, ζεμελως, τιτετικμενος, τιος, [ιος, δεως, [ι]ος -->
-    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,PRON,VERB,X">296</feat><!-- κακουν, σεμουν, κνουμανει, κακον, κνουμανε, σεμον, κνουμανι, βεκος, σεμου, [κνουμανει] -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,PART,PRON,PROPN,VERB,X">184</feat><!-- κακουν, κακον, ουταν, γεγρειμεναν, βαταν, μανκαν, ουεβαν, ταν, τι, τιαν -->
+    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PART,PRON,PROPN,X">371</feat><!-- σεμουν, κνουμανει, τιε, κνουμανε, σεμον, τι, ζεμελως, οι, σα, δεως -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,PART,PRON,PROPN">26</feat><!-- τιος, αργου, ακαλας, ακε̣?νικου, αωρω, δαδου, δουμ?ετυου, εκατηας, ιου, κναικο⟨ς⟩ -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON,PROPN,VERB,X">258</feat><!-- ιος, τιττετικμενος, τιτετικμενος, [ιος, [ι]ος, ις, τος, βας, κος, βεκος -->
+    <feat name="ExtPos" value="DET" upos="DET,PRON">14</feat><!-- σα, σεμον, σεμουν, [σεμουν, σ[εμ]ον, σας, σεμ[ουν, σεμ̣[ουν] -->
+    <feat name="ExtPos" value="PRON" upos="PRON">68</feat><!-- ιος, τος, [ιος, [ι]ος, [ι]ο̣ς, [ιο]ς, ειος, ι̣ος, ι̣ς̣, ιο[ς -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN,VERB,X">107</feat><!-- σα, ουταν, γεγρειμεναν, μανκα, μανκαι, μανκαν, σας, ταν, ευκιν, ουα -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,PART,PRON,PROPN,VERB,X">384</feat><!-- ιος, τιε, τι, τιττετικμενος, ζεμελως, τιτετικμενος, [ιος, τιος, δεως, [ι]ος -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,PART,PRON,VERB,X">307</feat><!-- κακουν, σεμουν, κνουμανει, κακον, κνουμανε, σεμον, κνουμανι, του, βεκος, σεμου -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">106</feat><!-- ειτου, αδειτου, εγεδου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], τευτους, [ειτ]ου -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">99</feat><!-- αδδακετ, αδακετ, δακετ, ειτου, αδδακ[ετ, [α]δδακετ, [α]δδακεττ, [αδ]δ[ακετ], [αδακετ, [αδδ]α̣κετορ -->
-    <feat name="Mood" value="Sub" upos="VERB">19</feat><!-- [αββ]ε̣ρετορ, α]ββερετοι, α]βερετι, αββε[ρετ, αββε̣ρ̣ετοι, αββερ̣ετορ, αββερετ, αββερετοι, αββερετορ, αββιρετο -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB,X">92</feat><!-- ζεμελως, δεως, διως, δεος, ειροι, ζεμελος, σζεμελως, σως, [δ]ε[ω]ς, [δ]ε̣[ως -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB,X">965</feat><!-- ιος, ειτου, κακουν, σεμουν, αδδακετ, κνουμανει, τιε, κακον, κνουμανε, αδακετ -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">110</feat><!-- αδδακετ, αδακετ, δακετ, ειτου, αββερετ, αββερετοι, αδδακ[ετ, [α]δδακετ, [α]δδακεττ, [αδ]δ[ακετ] -->
+    <feat name="Mood" value="Sub" upos="VERB">9</feat><!-- [αββ]ε̣ρετορ, βερε[τ], βερετ, δεδασσιννι, ιδετοι, ιστ?εικετ, τοτο]σσει[τι, τοτοσσει?τ?ι, τοτοσσειτι -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB,X">99</feat><!-- ζεμελως, δεως, διως, δεος, ειροι, ζεμελος, σζεμελως, σως, [δ]ε[ω]ς, [δ]ε̣[ως -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PART,PRON,PROPN,VERB,X">972</feat><!-- ιος, ειτου, κακουν, σεμουν, αδδακετ, κνουμανει, τιε, κακον, κνουμανε, τι -->
     <feat name="NumType" value="Ord" upos="NUM">1</feat><!-- πινκε -->
-    <feat name="Person" value="3" upos="AUX,VERB">226</feat><!-- ειτου, αδδακετ, αδακετ, αδειτου, εγεδου, ειτου], δακετ, ειτο[υ], [ειτου], αββερετ -->
+    <feat name="Person" value="3" upos="AUX,VERB">227</feat><!-- ειτου, αδδακετ, αδακετ, αδειτου, εγεδου, ειτου], δακετ, ειτο[υ], [ειτου], αββερετ -->
     <feat name="Poss" value="Yes" upos="DET,PRON">5</feat><!-- ουα, ιοι, οαν -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">117</feat><!-- σεμουν, σεμον, οι, σα, ιοι, σας, σεμου, τος, σεμ[ουν, σεμουν] -->
-    <feat name="PronType" value="Emp" upos="PRON">6</feat><!-- αυτος, αυ̣τος, αυταη, αυτον, αυτω -->
+    <feat name="PronType" value="Dem" upos="DET,PART,PRON">145</feat><!-- σεμουν, σεμον, σα, οι, του, ιοι, τος, σας, σεμου, ταν -->
+    <feat name="PronType" value="Emp" upos="PRON">7</feat><!-- αυτος, αυ̣τος, αυταη, αυτον, αυτω, οεαυται -->
     <feat name="PronType" value="Ind" upos="DET,PRON">8</feat><!-- κος, ιαν, κιν, τι, τις -->
-    <feat name="PronType" value="Rel" upos="PRON">99</feat><!-- ιος, [ιος, [ι]ος, ις, [ιο]ς, [ι]ο̣ς, [ιος], ειος, ι?ος, ι̣ος -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">5</feat><!-- ουα, οαν, οι -->
+    <feat name="PronType" value="Rel" upos="PRON">106</feat><!-- ιος, [ιος, [ι]ος, ις, [ιο]ς, [ι]ο̣ς, [ιος], ειος, ι?ος, ι̣ος -->
     <feat name="Reflex" value="Yes" upos="PRON">1</feat><!-- οεαυται -->
-    <feat name="Tense" value="Past" upos="VERB">102</feat><!-- τιττετικμενος, τιτετικμενος, γεγρειμεναν, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος -->
+    <feat name="Tense" value="Past" upos="VERB">103</feat><!-- τιττετικμενος, τιτετικμενος, γεγρειμεναν, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">213</feat><!-- ειτου, αδδακετ, αδακετ, αδειτου, εγεδου, ειτου], δακετ, ειτο[υ], [ειτου], αββερετ -->
     <feat name="Typo" value="Yes" upos="NOUN,VERB">2</feat><!-- α, αδικες -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">224</feat><!-- ειτου, αδδακετ, αδακετ, αδειτου, εγεδου, ειτου], δακετ, ειτο[υ], [ειτου], αββερετ -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">225</feat><!-- ειτου, αδδακετ, αδακετ, αδειτου, εγεδου, ειτου], δακετ, ειτο[υ], [ειτου], αββερετ -->
     <feat name="VerbForm" value="Part" upos="VERB">97</feat><!-- τιττετικμενος, τιτετικμενος, γεγρειμεναν, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος -->
-    <feat name="Voice" value="Act" upos="AUX,VERB">199</feat><!-- ειτου, αδδακετ, αδακετ, αδειτου, ειτου], δακετ, ειτο[υ], [ειτου], αββερετ, αδδακ[ετ -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">200</feat><!-- ειτου, αδδακετ, αδακετ, αδειτου, ειτου], δακετ, ειτο[υ], [ειτου], αββερετ, αδδακ[ετ -->
     <feat name="Voice" value="Mid" upos="VERB">122</feat><!-- τιττετικμενος, τιτετικμενος, εγεδου, γεγρειμεναν, τιτετικμ[ενος, [αββ]ε̣ρετορ, [αδδ]α̣κετορ, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
@@ -70,23 +73,23 @@
     <dep name="amod">30</dep>
     <dep name="appos">1</dep>
     <dep name="aux">1</dep>
-    <dep name="case">67</dep>
+    <dep name="case">66</dep>
     <dep name="cc">108</dep>
     <dep name="conj">77</dep>
     <dep name="cop">86</dep>
     <dep name="csubj">71</dep>
-    <dep name="dep">194</dep>
-    <dep name="det">116</dep>
+    <dep name="dep">192</dep>
+    <dep name="det">114</dep>
     <dep name="dislocated">1</dep>
-    <dep name="fixed">79</dep>
+    <dep name="fixed">82</dep>
     <dep name="flat">1</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">113</dep>
     <dep name="mark">2</dep>
     <dep name="nmod">20</dep>
-    <dep name="nsubj">134</dep>
+    <dep name="nsubj">135</dep>
     <dep name="obj">114</dep>
-    <dep name="obl">91</dep>
+    <dep name="obl">92</dep>
     <dep name="orphan">1</dep>
     <dep name="punct">209</dep>
     <dep name="root">132</dep>
