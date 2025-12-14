@@ -9,7 +9,7 @@ UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian lan
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
-Since the data are epigraphic, the inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (cf. Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a pipe (|) and included in the MISC field. This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
+Since the data are epigraphic, the inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (cf. Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a hyphen (-) and included in the MISC field. This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
 
 
 # Acknowledgments
@@ -27,6 +27,8 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 
 # Changelog
 
+* 2026-05-15 v2.18
+  * Fixed readability of TM-identifiers in MISC field.
 * 2025-11-15 v2.17
   * Implementation of ExtPos.
   * Corrections in annotation.
