@@ -2,12 +2,12 @@
 # text = μανκα μεκας σας κιυιν εν κε βιλαταδεναν νεκοινουν :
 1	μανκα	μανκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Ref=TM757243-1-1
 2	μεκας	mekas	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	Ref=TM757243-1-2
-3	σας	σεμουν	DET	_	Case=Nom|Gender=Masc|PronType=Det	1	det	_	Ref=TM757243-1-3
+3	σας	σεμουν	DET	_	Case=Nom|Gender=Masc|PronType=Dem	1	det	_	Ref=TM757243-1-3
 4	κιυιν	κισυις	PRON	_	Gender=Neut|Number=Sing|PronType=Ind	7	det	_	Ref=TM757243-1-4
 5	εν	εν	ADP	_	_	7	case	_	Ref=TM757243-1-5
 6	κε	ke	CCONJ	_	_	5	cc	_	Ref=TM757243-1-6
 7	βιλαταδεναν	βιλαταδεναν	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Ref=TM757243-1-7
-8	νεκοινουν	νεκοινουν	VERB	_	Person=3|Number=Plur	0	root	_	Ref=TM757243-1-8
+8	νεκοινουν	νεκοινουν	VERB	_	Number=Plur|Person=3	0	root	_	Ref=TM757243-1-8
 9	:	:	PUNCT	_	_	8	punct	_	Ref=TM757243-1-9
 
 # sent_id = TM757243-2
@@ -63,9 +63,8 @@
 2	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM757243-6-2
 3	κοροαν	κοροαν	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	Ref=TM757243-6-3
 4	δετου̣ν̣	δετουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	Ref=TM757243-6-4
-5	σ̣ο̣υ̣ν	σεμουν	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Ref=TM757243-6-5
+5	σ̣ο̣υ̣ν	σεμουν	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Ref=TM757243-6-5
 6	ομαστα	ομαστα	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	Ref=TM757243-6-6
-7-8	ομνισιτους	_	_	_	_	_	_	_	_
 7	ομνισιτου	umniṣet	VERB	_	ExtPos=VERB|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	Ref=TM757243-6-7
 8	ς	σεμουν	ADV	_	_	7	advmod	_	Ref=TM757243-6-8
 
@@ -83,8 +82,8 @@
 1	[...]n	[...]n	X	_	_	0	root	_	Ref=TM1001271-2-1
 2	manaṇ	manan	NOUN	Case=Acc|Number=Sing	_	1	dep	_	Ref=TM1001271-2-2
 3	mlalin	_	ADJ	Case=Acc|Number=Sing	_	2	amod	_	Ref=TM1001271-2-3
-4	śit	_	DET	_	PronType=Dem	1	dep	_	Ref=TM1001271-2-4
-5	t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-2-5
+4	śit	_	DET	_	PronType=Dem	1	dep	_	Ref=TM1001271-2-4|SpaceAfter=No
+5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-2-5
 6	[...]	[...]	SYM	_	_	1	dep	_	Ref=TM1001271-2-6
 
 # sent_id = TM1001271-3
@@ -94,7 +93,7 @@
 
 # sent_id = TM1001271-4
 # text = eḳ ṃroteś-key [...]
-1	eḳ	eḳ	ADV	_	advmod	4	_	_	Ref=TM1001271-4-1
+1	eḳ	eḳ	ADV	_	_	4	advmod	_	Ref=TM1001271-4-1
 2-3	ṃroteś-key	_	_	_	_	_	_	_	_
 2	ṃroteś	μροτις	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TM1001271-4-2
 3	key	ke	CCONJ	_	_	2	cc	_	Ref=TM1001271-4-3
@@ -111,8 +110,8 @@
 1	eś	ešt	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM1001271-6-1
 2	k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
 3	ṃrey	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM1001271-6-3
-4	veiṣ́	va	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	Ref=TM1001271-6-4
-5	t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-6-5
+4	veiṣ́	va	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	Ref=TM1001271-6-4|SpaceAfter=No
+5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-6-5
 6	Perkạmạṇeiṣ	Perkamaneis	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	Ref=TM1001271-6-6
 7	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-6-7
 
@@ -2057,8 +2056,7 @@
 23	γεγαριτμενος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	19	amod	_	Ref=TM867070-2-23
 24	ας	as	ADP	_	_	25	case	_	Ref=TM867070-2-24
 25	βαταν	βας	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	26	obl	_	Ref=TM867070-2-25
-26-27	τευτους	_	_	_	_	_	_	_	_
-26	τευτου	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	Ref=TM867070-2-26
+26	τευτου	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	Ref=TM867070-2-26|SpaceAfter=No
 27	ς	σεμουν	ADV	_	_	26	advmod	_	Ref=TM867070-2-27|SpaceAfter=No
 28	.	.	PUNCT	_	_	9	punct	_	Ref=TM867070-2-28
 
