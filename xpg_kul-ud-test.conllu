@@ -65,7 +65,7 @@
 4	δετου̣ν̣	δετουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	Ref=TM757243-6-4
 5	σ̣ο̣υ̣ν	σεμουν	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Ref=TM757243-6-5
 6	ομαστα	ομαστα	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	Ref=TM757243-6-6
-7	ομνισιτου	umniṣet	VERB	_	ExtPos=VERB|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	Ref=TM757243-6-7|SpaceAfter=No
+7	ομνισιτου	umniṣet	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	Ref=TM757243-6-7|SpaceAfter=No
 8	ς	σεμουν	ADV	_	_	7	advmod	_	Ref=TM757243-6-8
 
 # sent_id = TM1001271-1
