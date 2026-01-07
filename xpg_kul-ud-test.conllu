@@ -443,7 +443,7 @@
 10	α	ad	ADP	_	_	11	case	_	Ref=TM984529-1-10
 11	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	Ref=TM984529-1-11
 12	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM984529-1-12
-13	ο̣υελ̣ασκετου	ουελασκετου	VERB	_	Number=Sing|Person=3	12	CONJ	_	Ref=TM984529-1-13
+13	ο̣υελ̣ασκετου	ουελασκετου	VERB	_	Number=Sing|Person=3	12	conj	_	Ref=TM984529-1-13
 14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984529-1-14
 15	ισνου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	Ref=TM984529-1-15
 16	αστοι	ασται	X	_	Case=Nom|Gender=Masc|Number=Plur	12	dep	_	Ref=TM984529-1-16
