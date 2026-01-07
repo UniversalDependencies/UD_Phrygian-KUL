@@ -20,7 +20,7 @@ Some New Phrygian texts are emended following Hämmig (2022). As such, the verb 
 
 # Lemmas
 
-Most data in the LEMMA-field are compiled in Obrador-Cursach (2020, pp. 154–411)
+Most data in the LEMMA-field are compiled in Obrador-Cursach (2020, pp. 154–411).
 
 # Acknowledgments
 
