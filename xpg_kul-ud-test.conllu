@@ -2204,7 +2204,7 @@
 14	.	.	PUNCT	_	_	12	punct	_	Ref=TM867072-2-14
 
 # sent_id = TM867073-2
-# text = ιος κε σεμουν κνουμανι κακουν αδακετ, ερα γεγρειμεν[α]ν εγεδο[υ] τιος ουταν, αυτος κ’ ουα κοροκα [γ]εγ̣[αριτ]με[ν]ος α Βαταν τευτους.
+# text = ιος κε σεμουν κνουμανι κακουν αδακετ, ερα γεγρειμεν[α]ν εγεδο[υ] τιος ουταν, αυτος κ’ ουα κοροκα [γ]εγ̣[αριτ]με[ν]ος α βαταν τευτους.
 1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867073-2-1
 2	κε	ke	CCONJ	_	_	10	cc	_	Ref=TM867073-2-2
 3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867073-2-3
@@ -2225,7 +2225,7 @@
 18	[γ]εγ̣[αριτ]με[ν]ος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	14	amod	_	Ref=TM867073-2-18
 19	α	as	ADP	_	_	20	case	_	Ref=TM867073-2-19
 20	βαταν	βας	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	Ref=TM867073-2-20
-21	τευτους	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	SpaceAfter=No|Ref=TM867073-2-21
+21	τευτου	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	SpaceAfter=No|Ref=TM867073-2-21
 22	ς	σεμουν	ADV	_	_	21	advmod	_	Ref=TM867073-2-22|SpaceAfter=No
 23	.	.	PUNCT	_	_	10	punct	_	Ref=TM867073-2-23
 
