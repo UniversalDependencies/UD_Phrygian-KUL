@@ -69,33 +69,33 @@
 8	ς	σεμουν	ADV	_	_	7	advmod	_	Ref=TM757243-6-8
 
 # sent_id = TM1001271-1
-# text = [...] Antiyokoy ∙ Śilẹṿkoỵ-kẹỵ
+# text = [...] Antiyokoy ∙ Śilẹṿkoỵ-kẹỵ
 1	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-1-2
 2	Antiyokoy	Antiyokoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-2
 3	∙	∙	PUNCT	_	_	1	punct	_	Ref=TM1001271-1-3
-4-5	Śilẹṿkoỵ-kẹỵ	_	_	_	_	_	_	_	_
-4	Śilẹṿkoỵ	Śilevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4
-5	kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
+4-5	Śilẹṿkoỵ-kẹỵ	_	_	_	_	_	_	_	_
+4	Śilẹṿkoỵ	Śilevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4
+5	kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
 
 # sent_id = TM1001271-2
-# text = [...]n manaṇ mlalin śit-t [...]
+# text = [...]n manaṇ mlalin śit-t [...]
 1	[...]n	[...]n	X	_	_	0	root	_	Ref=TM1001271-2-1
-2	manaṇ	manan	NOUN	Case=Acc|Number=Sing	_	1	dep	_	Ref=TM1001271-2-2
+2	manaṇ	manan	NOUN	Case=Acc|Number=Sing	_	1	dep	_	Ref=TM1001271-2-2
 3	mlalin	_	ADJ	Case=Acc|Number=Sing	_	2	amod	_	Ref=TM1001271-2-3
 4	śit	_	DET	_	PronType=Dem	1	dep	_	Ref=TM1001271-2-4|SpaceAfter=No
 5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-2-5
 6	[...]	[...]	SYM	_	_	1	dep	_	Ref=TM1001271-2-6
 
 # sent_id = TM1001271-3
-# text = [...] ṃetebaẹs
+# text = [...] ṃetebaẹs
 1	[...]	[...]	SYM	_	_	2	dep	_	Ref=TM1001271-3-1
-2	ṃetebaẹs	ṃetebaẹs	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM1001271-3-2
+2	ṃetebaẹs	ṃetebaẹs	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM1001271-3-2
 
 # sent_id = TM1001271-4
-# text = eḳ ṃroteś-key [...]
-1	eḳ	eḳ	ADV	_	_	4	advmod	_	Ref=TM1001271-4-1
-2-3	ṃroteś-key	_	_	_	_	_	_	_	_
-2	ṃroteś	μροτις	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TM1001271-4-2
+# text = eḳ ṃroteś-key [...]
+1	eḳ	eḳ	ADV	_	_	4	advmod	_	Ref=TM1001271-4-1
+2-3	ṃroteś-key	_	_	_	_	_	_	_	_
+2	ṃroteś	μροτις	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TM1001271-4-2
 3	key	ke	CCONJ	_	_	2	cc	_	Ref=TM1001271-4-3
 4	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-4-3
 
@@ -105,46 +105,46 @@
 2	Parśaparnas˙	Parśaparnas˙	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TM1001271-5-2
 
 # sent_id = TM1001271-6
-# text = eś-k ṃrey veiṣ́-t Perkạmạṇeiṣ [...]
+# text = eś-k ṃrey veiṣ́-t Perkạmạṇeiṣ [...]
 1-2	eś-k	_	_	_	_	_	_	_	_
 1	eś	ešt	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM1001271-6-1
 2	k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
-3	ṃrey	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM1001271-6-3
+3	ṃrey	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM1001271-6-3
 4	veiṣ́	va	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	Ref=TM1001271-6-4|SpaceAfter=No
 5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-6-5
-6	Perkạmạṇeiṣ	Perkamaneis	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	Ref=TM1001271-6-6
+6	Perkạmạṇeiṣ	Perkamaneis	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	Ref=TM1001271-6-6
 7	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-6-7
 
 # sent_id = TM1001271-7
-# text = [... i]ḅey Gordiyoy puprayọỵ veban [...]
+# text = [... i]ḅey Gordiyoy puprayọỵ veban [...]
 1	[...	[...]	SYM	_	_	0	root	_	Ref=TM1001271-7-1
-2	i]ḅey	ibey	ADV	_	_	4	advmod	_	Ref=TM1001271-7-2
+2	i]ḅey	ibey	ADV	_	_	4	advmod	_	Ref=TM1001271-7-2
 3	Gordiyoy	Gordiyoy	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	4	amod	_	Ref=TM1001271-7-3
-4	puprayọỵ	puprayoy	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	amod	_	Ref=TM1001271-7-4
+4	puprayọỵ	puprayoy	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	amod	_	Ref=TM1001271-7-4
 5	veban	veban	NOUN	_	Case=Acc|Number=Sing	1	obj	_	Ref=TM1001271-7-5
 6	[...]	[...]	SYM	_	_	1	dep	_	Ref=TM1001271-7-6
 
 # sent_id = TM1001271-8
-# text = [...]ṇin-key oḷvomun ∙
-1-2	[...]ṇin-key	_	_	_	_	_	_	_	_
-1	[...]ṇin	[...]nin	NOUN	_	Case=Acc|Number=Sing	0	root	_	Ref=TM1001271-8-1
+# text = [...]ṇin-key oḷvomun ∙
+1-2	[...]ṇin-key	_	_	_	_	_	_	_	_
+1	[...]ṇin	[...]nin	NOUN	_	Case=Acc|Number=Sing	0	root	_	Ref=TM1001271-8-1
 2	key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-8-2
-3	oḷvomun	olvomun	NOUN	_	Case=Acc|Number=Sing	1	dep	_	Ref=TM1001271-8-3
+3	oḷvomun	olvomun	NOUN	_	Case=Acc|Number=Sing	1	dep	_	Ref=TM1001271-8-3
 4	∙	∙	SYM	_	_	1	dep	_	Ref=TM1001271-8-4
 
 # sent_id = TM1001271-9
-# text = opoś-key iḅẹy [...]
+# text = opoś-key iḅẹy [...]
 1-2	opoś-key	_	_	_	_	_	_	_	_
 1	opoś	opos	NOUN	_	Gender=Neut|Number=Plur	4	dep	_	Ref=TM1001271-9-1
 2	key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-9-2
-3	iḅẹy	ibey	ADV	_	_	4	advmod	_	Ref=TM1001271-9-3
+3	iḅẹy	ibey	ADV	_	_	4	advmod	_	Ref=TM1001271-9-3
 4	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-9-4
 
 # sent_id = TM1001271-10
-# text = [...]ọy ạẹỵ-t maneis
-1	[...]ọy	[...]ọy	X	_	_	0	root	_	Ref=TM1001271-10-1
-2-3	ạẹỵ-t	_	_	_	_	_	_	_	_
-2	ạẹỵ	aey	ADP	_	ExtPos=ADP	4	case	_	Ref=TM1001271-10-2
+# text = [...]ọy ạẹỵ-t maneis
+1	[...]ọy	[...]ọy	X	_	_	0	root	_	Ref=TM1001271-10-1
+2-3	ạẹỵ-t	_	_	_	_	_	_	_	_
+2	ạẹỵ	aey	ADP	_	ExtPos=ADP	4	case	_	Ref=TM1001271-10-2
 3	t	t	ADV	_	_	2	advmod	_	Ref=TM1001271-10-3
 4	maneis	manan	NOUN	_	Case=Acc|Number=Plur	1	obl	_	Ref=TM1001271-10-4
 
