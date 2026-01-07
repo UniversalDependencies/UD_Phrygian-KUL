@@ -1,3 +1,119 @@
+# sent_id = TM756906-1
+# text = ates arkiaevais akenanogavos midai lavagtaei vanaktei edaes
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=TM756906-1-1
+2	arkiaevais	arkiaevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-2
+3	akenanogavos	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-3
+4	midai	midas	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	Ref=TM756906-1-4
+5	lavagtaei	lavagtaei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-5
+6	vanaktei	vanaktei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-6
+7	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756906-1-7
+
+# sent_id = TM756907-1
+# text = baba memevais proitavos kφiyanaveyos sikeneman edaes
+1	baba	baba	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=TM756907-1-1
+2	memevais	memevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756907-1-2
+3	proitavos	proitavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756907-1-3
+4	kφiyanaveyos	k𐋇ianaveyos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756907-1-4
+5	si	σεμουν	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	Ref=TM756907-1-5
+6	keneman	keneman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM756907-1-6
+7	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756907-1-7
+
+# sent_id = TM756908-1
+# text = matẹṛ[--] atatas ṃ?onokaua
+1	matẹṛ[--]	matar	NOUN	_	Gender=Fem	0	root	_	Ref=TM756908-1-1
+2	atatas	atatas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM756908-1-2
+3	ṃ?onokaua	ṃ?onokaua	X	_	_	1	dep	_	Ref=TM756908-1-3
+
+# sent_id = TM756909-1
+# text = midas smateran tvemes eneparkes?
+1	midas	midas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM756909-1-1
+2	s	σεμουν	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM756909-1-2
+3	materan	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	obj	_	Ref=TM756909-1-3
+4	tvemes	tvemes	X	_	_	5	dep	_	Ref=TM756909-1-4
+5	eneparkes?	eneparkes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756909-1-5
+
+# sent_id = TM756909-2
+# text = matera[n?] avie[---]
+1	matera[n?]	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Ref=TM756909-2-1
+2	avie[---]	avie[---]	X	_	_	1	dep	_	Ref=TM756909-2-2
+
+# sent_id = TM1001273-1
+# text = [---] materey [---]
+1	[---]	[---]	SYM	_	_	0	root	_	Ref=TM1001273-1-1
+2	materey	matar	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	dep	_	Ref=TM1001273-1-2
+3	[---]	[---]	SYM	_	_	1	dep	_	Ref=TM1001273-1-3
+
+# sent_id = TM756910-1
+# text = [---] as tuav?eniy ae esuryoyoy totin ẹḍaẹ[s]
+1	[---]as	[---]as	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=TM756910-1-1
+2	tuav?eniy	tuaveniy	X	_	_	6	dep	_	Ref=TM756910-1-2
+3	ae	ae	X	_	_	6	dep	_	Ref=TM756910-1-3
+4	esuryoyoy	esuryoyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	Ref=TM756910-1-4
+5	totin	totin	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	Ref=TM756910-1-5
+6	ẹḍaẹ[s]	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756910-1-6
+
+# sent_id = TM756911-1
+# text = bba memevais proitavo[s] k𐋇ianaveyos akaragayun edaes
+1	bba	baba	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=TM756911-1-1
+2	memevais	memevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756911-1-2
+3	proitavo[s]	proitavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756911-1-3
+4	k𐋇ianaveyos	k𐋇ianaveyos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756911-1-4
+5	akaragayun	akaragayun	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Ref=TM756911-1-5
+6	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756911-1-6
+
+# sent_id = TM756912-1
+# text = [---]abas iṃaṇ akio[---]
+1	[---]abas	[---]abas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756912-1-1		
+2	iṃaṇ	iman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dep	_	Ref=TM756912-1-2
+3	akio[---]	akio[---]	X	_	_	1	dep	_	Ref=TM756912-1-3
+
+# sent_id = TM756913-1
+# text = ạkinanogavaṇ tiyes moḍroṿanak [.?]avarạ[.?]
+1	ạkinanogavaṇ	akenanogavos	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Ref=TM756913-1-1
+2	tiyes	tiyes	PROPN	_	Case=Sing|Number=Sing	1	dep	_	Ref=TM756913-1-2
+3	moḍroṿanak	modrovanak	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM756913-1-3
+4	[.?]avarạ[.?]	[.?]avarạ[.?]	X	_	_	1	dep	_	Ref=TM756913-1-4
+
+# sent_id = TM756914-1
+# text = apelan mekas tevanọ[---]
+1	apelan	apelan	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756914-1-1
+2	mekas	mekas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM756914-1-2
+3	tevanọ[---]	tevanọ[---]	X	_	_	1	dep	_	Ref=TM756914-1-3
+
+# sent_id = TM756915-1
+# text = [.?]ṛekun deiatiteeạ.? davoi iman
+1	[.?]ṛekun	vrekun	NOUN	_	Case=Acc|Number=Sing	0	root	_	Ref=TM756915-1-1
+2	deiatiteeạ.?	deiatiteeạ.?	X	_	_	1	dep	_	Ref=TM756915-1-2
+3	davoi	davoi	PROPN	_	Case=Dat|Number=Sing	0	root	_	Ref=TM756915-1-3
+4	iman	iman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dep	_	Ref=TM756915-1-4
+
+# sent_id = TM756916-1
+# text = tolos
+1	tolos	tolos	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756916-1-1
+
+# sent_id = TM756917-1
+# text = [---]ṣạbas
+1	[---]ṣạbas	[---]ṣạbas	X	_	_	0	root	_	Ref=TM756917-1-1
+
+# sent_id = TM756918-1
+# text = [---] ạkeṇ?ano[---]
+1	[---]	[---]	SYM	_	_	0	root	_	Ref=TM756918-1-1
+2	ạkeṇ?ano[---]	akenanogavos	NOUN	_	_	1	dep	_	Ref=TM756918-1-2
+
+# sent_id = TM756919-1
+# text = [---]gen [---]
+1	[---]gen	[---]gen	X	_	_	0	root	_	Ref=TM756919-1-1
+2	[---]	[---]	SYM	_	_	1	dep	_	Ref=TM756919-1-2
+
+# sent_id = TM756919-2
+# text = [---]ṭen [---]
+1	[---]ṭen	[---]ṭen	X	_	_	0	root	_	Ref=TM756919-2-1
+2	[---]	[---]	SYM	_	_	1	dep	_	Ref=TM756919-2-2
+
+# sent_id = TM984504-1
+# text = ṣarag̣iṣ
+1	ṣarag̣iṣ	saragis	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM984504-1-1
+
 # sent_id = TM757243-1
 # text = μανκα μεκας σας κιυιν εν κε βιλαταδεναν νεκοινουν :
 1	μανκα	μανκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Ref=TM757243-1-1
@@ -443,9 +559,9 @@
 10	α	ad	ADP	_	_	11	case	_	Ref=TM984529-1-10
 11	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	Ref=TM984529-1-11
 12	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM984529-1-12
-13	ο̣υελ̣ασκετου	ουελασκετου	VERB	_	Number=Sing|Person=3	12	conj	_	Ref=TM984529-1-13
+13	ο̣υελ̣ασκετου	ουελασκετου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	_	Ref=TM984529-1-13
 14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984529-1-14
-15	ισνου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	Ref=TM984529-1-15
+15	ισνου	isini	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	_	Ref=TM984529-1-15
 16	αστοι	ασται	X	_	Case=Nom|Gender=Masc|Number=Plur	12	dep	_	Ref=TM984529-1-16
 17	παρτης	παρτης	X	_	Case=Nom|Gender=Masc|Number=Plur	12	dep	_	SpaceAfter=No|Ref=TM984529-1-17
 18	.	.	PUNCT	_	_	12	punct	_	Ref=TM984529-1-18
@@ -472,7 +588,7 @@
 # text = [---] [κακο]υν αββερετοι, με σζεμελως κε δυως κε τιτ̣[τετικμενος ειτου].
 1	[---]	[---]	SYM	_	_	10	dep	_	Ref=TM984530-1-1
 2	[κακο]υν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=TM984530-1-2
-3	αββερετοι	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM984530-1-3
+3	αββερετοι	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	csubj	_	SpaceAfter=No|Ref=TM984530-1-3
 4	,	,	PUNCT	_	_	10	punct	_	Ref=TM984530-1-4
 5	με	με1	ADP	_	_	6	case	_	Ref=TM984530-1-5
 6	σζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	Ref=TM984530-1-6
@@ -621,7 +737,7 @@
 
 # sent_id = TM984534-3
 # text = ουελασκοννου κ’ ηνκ- [.......]υ̣ο̣ι̣ς̣ γ̣ε̣ν̣τ̣ι̣ β̣ε̣π̣α̣ι̣ κε π̣αρτης β̣ε̣κος̣.
-1	ουελασκοννου	ουελασκετου	VERB	_	Number=Plur|Person=3	0	root	_	Ref=TM984534-3-1
+1	ουελασκοννου	ουελασκετου	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM984534-3-1
 2	κ’	ke	CCONJ	_	_	1	cc	_	Ref=TM984534-3-2
 3	ηνκ-	ηνκ[---]	X	_	_	1	dep	_	Ref=TM984534-3-3
 4	[.......]υ̣ο̣ι̣ς̣	[.......]υ̣ο̣ι̣ς̣	X	_	_	1	dep	_	Ref=TM984534-3-4
@@ -953,9 +1069,9 @@
 8	τρα[---]τη[	τρα[.....]τη[---]	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	dep	_	Ref=TM918557-2-8
 9	ζε]μελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	15	dep	_	Ref=TM918557-2-9
 10	κε	ke	CCONJ	_	_	9	cc	_	Ref=TM918557-2-10
-11	ο̣[υ]ε̣λ̣α̣σ̣κοννου	ουελασκετου	VERB	_	Number=Plur|Person=3	0	root	_	Ref=TM918557-2-11
+11	ο̣[υ]ε̣λ̣α̣σ̣κοννου	ουελασκετου	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM918557-2-11
 12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM918557-2-12
-13	ισνιο[υ]	isini	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	11	conj	_	Ref=TM918557-2-13
+13	ισνιο[υ]	isini	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Mid	11	conj	_	Ref=TM918557-2-13
 14	αι	ai	CCONJ	_	_	15	cc	_	Ref=TM918557-2-14
 15	παρτης	παρτης	NOUN	_	_	13	dep	_	SpaceAfter=No|Ref=TM918557-2-15
 16	.	.	PUNCT	_	_	11	punct	_	Ref=TM918557-2-16
@@ -2051,7 +2167,7 @@
 23	γεγαριτμενος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	19	amod	_	Ref=TM867070-2-23
 24	ας	as	ADP	_	_	25	case	_	Ref=TM867070-2-24
 25	βαταν	βας	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	26	obl	_	Ref=TM867070-2-25
-26	τευτου	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	Ref=TM867070-2-26|SpaceAfter=No
+26	τευτου	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	Ref=TM867070-2-26|SpaceAfter=No
 27	ς	σεμουν	ADV	_	_	26	advmod	_	Ref=TM867070-2-27|SpaceAfter=No
 28	.	.	PUNCT	_	_	9	punct	_	Ref=TM867070-2-28
 
@@ -2108,9 +2224,10 @@
 17	κοροκα	κοροκα	NOUN	_	_	21	dep	_	Ref=TM867073-2-17
 18	[γ]εγ̣[αριτ]με[ν]ος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	14	amod	_	Ref=TM867073-2-18
 19	α	as	ADP	_	_	20	case	_	Ref=TM867073-2-19
-20	Βαταν	βας	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	Ref=TM867073-2-20
-21	τευτους	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No|Ref=TM867073-2-21
-22	.	.	PUNCT	_	_	10	punct	_	Ref=TM867073-2-22
+20	βαταν	βας	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	Ref=TM867073-2-20
+21	τευτους	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	SpaceAfter=No|Ref=TM867073-2-21
+22	ς	σεμουν	ADV	_	_	21	advmod	_	Ref=TM867073-2-22|SpaceAfter=No	
+23	.	.	PUNCT	_	_	10	punct	_	Ref=TM867073-2-23
 
 # sent_id = TM845501-1
 # text = ιος νι σεμουν κνουμανει κακουν αδα[κ]ετ, γεγρειμεναν εγεδου Τιος ουτ[αν] [---]
