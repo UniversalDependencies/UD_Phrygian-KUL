@@ -1,10 +1,10 @@
 # Summary
 
-UD Phrygian-KUL started as part of a Master's thesis in linguistics at KU Leuven, annotating the New Phrygian subcorpus of the ancient Phrygian language. It has since expanded to include Middle Phrygian texts.
+UD Phrygian-KUL started as part of a Master's thesis in linguistics at KU Leuven, annotating the New Phrygian subcorpus of the ancient Phrygian language. It has since expanded to include Old and Middle Phrygian texts.
 
 # Introduction
 
-UD Phrygian-KUL annotates the Middle and New Phrygian subcorpora of the ancient Phrygian language. The data are comprised of epigraphic material dating ca. 4th century BCE-3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
+UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised of epigraphic material dating ca. 8th century BCE-3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
@@ -41,6 +41,7 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 * 2026-05-15 v2.18
   * Corrections in annotation
   * Fixed readability of TM-identifiers in MISC-field.
+  * Old Phrygian texts added (Provenance M).
   * Middle Phrygian texts added (W-11, G-12).
   * README.md updated for expansion of the corpus.
 * 2025-11-15 v2.17
