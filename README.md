@@ -26,7 +26,7 @@ Most data in the LEMMA-field are compiled in Obrador-Cursach (2020, pp. 154–41
 
 # Acknowledgments
 
-The data were annotated by Oggi Peeters as part of a Master's thesis in linguistics at KU Leuven (Peeters, 2024). Thus, it goes without saying that any errors are my own. A big thank-you goes to supervisors Alek Keersmaekers and Toon Van Hal for their guidance throughout the project, as well as to Mark Depauw for his help in acquiring the necessary textual metadata from Trismegistos.
+The data were annotated by Oggi Peeters originally as part of a Master's thesis in linguistics at KU Leuven (Peeters, 2024). Ever since, they have included the other subcorpora. It thus goes without saying that any errors are those of the contributor. A big thank-you goes to supervisors Alek Keersmaekers and Toon Van Hal for their guidance throughout the initial project, as well as to Mark Depauw for the metadata from Trismegistos.
 
 # References
 
