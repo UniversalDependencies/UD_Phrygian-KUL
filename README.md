@@ -16,7 +16,7 @@ The data are based mainly on the aforementioned editions. Some changes have been
 
 Of the Old Phrygian subcorpus, so far only the inscriptions from Provenance Midas City (M) are included.
 
-In their edition of G-12, Oreshko and Alagöz (2023) use ś to represent a modified s-sign of the Phrygian alphabet. This is, however, impractical for UD, as there is no single combined Unicode character for that combines an acute and underdot, which is necessary in order to comply with the Leiden Editorial Conventions. For this reason, these data deviate from the edition in that the original ś is replaced by a capital letter S. Considering there is no convention for the use of capital letters in Phrygian, this is a way to preserve the distinction in the G-12 inscription between the s-signs as well as to underdot them (Ṣ).
+In their edition of G-12, Oreshko and Alagöz (2023) use ś to represent a modified s-sign of the Phrygian alphabet. This is, however, impractical for UD, as there is no single combined Unicode character that combines an acute and an underdot, which is necessary in order to comply with the Leiden Editorial Conventions. For this reason, these data deviate from the edition in that the original ś is replaced by a capital letter S. Considering there is no convention for the use of capital letters in Phrygian, this is a way to preserve the distinction in the G-12 inscription between the s-signs as well as to underdot them (Ṣ).
 
 Some New Phrygian texts are emended following Hämmig (2022). As such, the verb forms ουελασκετου and ουελασκοννου appear in the corpus (lemma ουελασκετου).
 
