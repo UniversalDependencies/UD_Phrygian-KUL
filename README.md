@@ -8,7 +8,7 @@ UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised 
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
-Since the data are epigraphic, the inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (cf. Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a hyphen (-) and included in the MISC field. This way, there is little difficulty in finding the provenance and approximate date of every Phrygian inscription.
+The inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (TM; see Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a hyphen (-) and included in the MISC field. Through TM, there is little difficulty in finding the provenance and approximate date of every Phrygian inscription.
 
 # Edition
 
@@ -23,7 +23,7 @@ Some New Phrygian texts are added.
 | **Editor** | **Numbering (Obrador-Cursach)** | **TM number** |
 | --- | --- | --- |
 | Anfosso (2021) | 34.2 | TM 1002268 |
-| Güney and Yanık (2022) | 67.1 | TM 1002269 |
+| Güney & Yanık (2022) | 67.1 | TM 1002269 |
 
 Some New Phrygian texts are emended.
 * Following Hämmig (2022), the verb forms ουελασκετου and ουελασκοννου appear in the corpus (lemma ουελασκετου).
