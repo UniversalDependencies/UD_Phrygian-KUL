@@ -18,7 +18,16 @@ Of the Old Phrygian subcorpus, so far only the inscriptions from Provenance Mida
 
 In their edition of G-12, Oreshko and Alagöz (2023) use ś to represent a modified s-sign of the Phrygian alphabet. This is, however, impractical for UD, as there is no single combined Unicode character that combines an acute and an underdot, which is necessary in order to comply with the Leiden Editorial Conventions. For this reason, these data deviate from the edition in that the original ś is replaced by a capital letter S. Considering there is no convention for the use of capital letters in Phrygian, this is a way to preserve the distinction in the G-12 inscription between the s-signs as well as to underdot them (Ṣ).
 
-Some New Phrygian texts are emended following Hämmig (2022). As such, the verb forms ουελασκετου and ουελασκοννου appear in the corpus (lemma ουελασκετου).
+Some New Phrygian texts are added.
+
+| **Editor** | **Numbering (Obrador-Cursach)** | **TM number** |
+| --- | --- | --- |
+| Anfosso (2021) | 34.2 | TM 1002268 |
+| Güney and Yanık (2022) | 67.1 | TM 1002269 |
+
+Some New Phrygian texts are emended.
+* Following Hämmig (2022), the verb forms ουελασκετου and ουελασκοννου appear in the corpus (lemma ουελασκετου).
+* Following de Hoz and Obrador-Cursach (2025), γουμειε is corrected to γουμεις.
 
 # Lemmas
 
@@ -30,7 +39,10 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 
 # References
 
+* Anfosso, M. (2021). Les inscriptions néo-phrygiennes : une revendication d'identité ethnique. In L. Locatelli, É. Piguet, & S. Podestà (Eds.), _Constructions identitaires en Asie Mineure (VIIIe siècle avaint J.-C.-IIIe siècle après J.-C.)_, 101-125. Presses universitaires de Franche-Comté.
+* de Hoz, M.-P., & Obrador-Cursach, B. (2025). Zeus of Brogimaros and funerary practices in Phrygia: the bilingual inscription from Nakoleia. _Monographica Orientalia_, _28_, 597-629.
 * Depauw, M., & Gheldof, T. (2014). Trismegistos. An interdisciplinary Platform for Ancient World Texts and Related Information. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, J. Schirrwagen (Eds.), _Theory and Practice of Digital Libraries - TPDL 2013 Selected Workshops (Communications in Computer and Information Science 416)_, 40–52.
+* Güney, H., & Yanık, E. (2022). New Inscriptions from Northeast Phrygia: The 2021 Survey. _Adalya_, _25_, 161-177.
 * Hämmig, A. E. (2022). A “new” Neo-Phrygian curse formula. In B. Obrador-Cursach & I.-X. Adiego (Eds.), _Phrygian linguistics and epigraphy: new insights_ (pp. 89–102). Universitat de Barcelona.
 * Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), _Handbook of Comparative and Historical Indo-European Linguistics_, 1816–1831. De Gruyter Mouton.
 * Obrador-Cursach, B. (2020). _The Phrygian Language_. Brill.
@@ -45,6 +57,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   * Fixed readability of TM-identifiers in MISC-field.
   * Old Phrygian texts added (Provenance M).
   * Middle Phrygian texts added (W-11, G-12).
+  * New Phrygian texts added (34.2, 67.1).
   * README.md updated for expansion of the corpus.
 * 2025-11-15 v2.17
   * Implementation of ExtPos.
