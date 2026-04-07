@@ -116,23 +116,23 @@
 
 # sent_id = TM757149a-1
 # text = pseṛkeyoy atas
-1	pseṛkeyoy	pserkeyoy	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757149a-1-2
+1	pseṛkeyoy	pserkeyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757149a-1-2
 2	atas	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757149a-1-2
 
 # sent_id = TM757149b-1
 # text = pseụkeyoy atas
-1	pseụkeyoy	pserkeyoy	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757149b-1-2
+1	pseụkeyoy	pserkeyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757149b-1-2
 2	atas	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757149b-1-2
 
 # sent_id = TM757150-1
 # text = surgastoy inas
-1	surgastoy	surgastoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757150-1-1
+1	surgastoy	surgastoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Ref=TM757150-1-1
 2	inas	inas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757150-1-2
 
 # sent_id = TM757271-1
 # text = maneion en
 1	maneion	maneion	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=TM757271-1-1
-2	en	ituv	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Present|VerbForm=Fin	1	cop	_	Ref=TM757271-1-2
+2	en	ituv	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	Ref=TM757271-1-2
 
 # sent_id = TM1002266-1
 # text = midas
@@ -246,7 +246,7 @@
 # sent_id = TM1001271-5
 # text = [...] parSaparnas˙
 1	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-5-1
-2	parSaparnas	parSaparnas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TM1001271-5-2
+2	parSaparnas	parSaparnas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TM1001271-5-2|SpaceAfter=No
 3	˙	∙	PUNCT	_	_	1	punct	_	Ref=TM1001271-5-3
 
 # sent_id = TM1001271-6
@@ -1408,18 +1408,18 @@
 
 # sent_id = TM1002268-1
 # text = ιος νι σεμουν κνουμανε κακουν αδδακετ (με δεως κε ζεμελως κε) τιττετικμενος ειτου
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM1002268-1-1
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM1002268-1-1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM1002268-2
 3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM1002268-1-3
-4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM1002268-1-4
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM1002268-1-4
 5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM1002268-1-5
 6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	Ref=TM1002268-1-6
-7	(	(	PUNCT	_	_	14	punct	_	Ref=TM1002268-1-7
+7	(	(	PUNCT	_	_	14	punct	_	Ref=TM1002268-1-7|SpaceAfter=No
 8	με	με	ADP	_	_	9	case	_	Ref=TM1002268-1-8
 9	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	Ref=TM1002268-1-9
 10	κε	ke	CCONJ	_	_	9	cc	_	Ref=TM1002268-1-10
 11	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	conj	_	Ref=TM1002268-1-11
-12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM1002268-1-12
+12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM1002268-1-12|SpaceAfter=No
 13	)	)	PUNCT	_	_	14	punct	_	Ref=TM1002268-1-13
 14	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM1002268-1-14
 15	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	Ref=TM1002268-1-15
@@ -2401,5 +2401,5 @@
 6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	Ref=TM1002269-1-7
 7	τιτετικ[μεν]ος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM1002269-1-7
 8	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM1002269-1-8
-9	.	.	PUNCT	_	_	16	punct	_	Ref=TM1002269-1-9
+9	.	.	PUNCT	_	_	7	punct	_	Ref=TM1002269-1-9
 
