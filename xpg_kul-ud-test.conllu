@@ -116,12 +116,12 @@
 
 # sent_id = TM757149a-1
 # text = pseṛkeyoy atas
-1	pseṛkeyoy	pserkeyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757149a-1-2
+1	pseṛkeyoy	pserkeyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Ref=TM757149a-1-2
 2	atas	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757149a-1-2
 
 # sent_id = TM757149b-1
 # text = pseụkeyoy atas
-1	pseụkeyoy	pserkeyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757149b-1-2
+1	pseụkeyoy	pserkeyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Ref=TM757149b-1-2
 2	atas	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757149b-1-2
 
 # sent_id = TM757150-1
@@ -2400,6 +2400,6 @@
 5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM1002269-1-5
 6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	Ref=TM1002269-1-7
 7	τιτετικ[μεν]ος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM1002269-1-7
-8	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM1002269-1-8
+8	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM1002269-1-8
 9	.	.	PUNCT	_	_	7	punct	_	Ref=TM1002269-1-9
 
