@@ -244,7 +244,7 @@
 # text = 40? knạỵḳẹ?[s]? .?
 1	40?	40	NUM	_	_	2	amod	_	Ref=TM757270-6-1
 2	knạỵḳẹ?[s]?	knais	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Ref=TM757270-6-2
-3	.?	[---]	SYM	_	_	2	root	_	Ref=TM757270-6-3
+3	.?	[---]	SYM	_	_	2	dep	_	Ref=TM757270-6-3
 
 # sent_id = TM757270-7
 # text = 40? m?akeṛes
