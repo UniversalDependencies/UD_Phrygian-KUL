@@ -14,7 +14,7 @@ The inscriptions can be linked to various metadata through stable identifiers pr
 
 The data are based mainly on the aforementioned editions. Some changes have been made, however, in order to keep up with new insights and to quell compatibility issues.
 
-Of the Old Phrygian subcorpus, so far only the inscriptions from Provenances Midas City (M), Diverse documents (Dd) and Outside of Phrygia (HP) are included. The readings for Dd-103, -104 and -105 are provided by Obrador-Cursach (2019).
+Of the Old Phrygian subcorpus, so far only the inscriptions from Provenances Midas City (M), Diverse documents (Dd) and Outside of Phrygia (HP) are included. The readings for Dd-103, -104 and -105 are provided by Obrador-Cursach (2019), while the more recent interpretation of Pserkeyoy/Pseukeyoy (Dd-101) and Surgastoy (Dd-102) as patronymics come from Obrador-Cursach (2021).
 
 In their edition of G-12, Oreshko and Alagöz (2023) use ś to represent a modified s-sign of the Phrygian alphabet. This is, however, impractical for UD, as there is no single combined Unicode character that combines an acute and an underdot, which is necessary in order to comply with the Leiden Editorial Conventions. For this reason, these data deviate from the edition in that the original ś is replaced by a capital letter S. Considering there is no convention for the use of capital letters in Phrygian, this is a way to preserve the distinction in the G-12 inscription between the s-signs as well as to underdot them (Ṣ).
 
@@ -39,14 +39,15 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 
 # References
 
-* Anfosso, M. (2021). Les inscriptions néo-phrygiennes : une revendication d'identité ethnique. In L. Locatelli, É. Piguet, & S. Podestà (Eds.), _Constructions identitaires en Asie Mineure (VIIIe siècle avaint J.-C.-IIIe siècle après J.-C.)_, 101-125. Presses universitaires de Franche-Comté.
-* de Hoz, M.-P., & Obrador-Cursach, B. (2025). Zeus of Brogimaros and funerary practices in Phrygia: the bilingual inscription from Nakoleia. _Monographica Orientalia_, _28_, 597-629.
-* Depauw, M., & Gheldof, T. (2014). Trismegistos. An interdisciplinary Platform for Ancient World Texts and Related Information. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, J. Schirrwagen (Eds.), _Theory and Practice of Digital Libraries - TPDL 2013 Selected Workshops (Communications in Computer and Information Science 416)_, 40–52.
-* Güney, H., & Yanık, E. (2022). New Inscriptions from Northeast Phrygia: The 2021 Survey. _Adalya_, _25_, 161-177.
+* Anfosso, M. (2021). Les inscriptions néo-phrygiennes : une revendication d'identité ethnique. In L. Locatelli, É. Piguet, & S. Podestà (Eds.), _Constructions identitaires en Asie Mineure (VIIIe siècle avaint J.-C.-IIIe siècle après J.-C.)_ (pp. 101–125). Presses universitaires de Franche-Comté.
+* de Hoz, M.-P., & Obrador-Cursach, B. (2025). Zeus of Brogimaros and funerary practices in Phrygia: the bilingual inscription from Nakoleia. _Monographica Orientalia_, _28_, 597–629.
+* Depauw, M., & Gheldof, T. (2014). Trismegistos. An interdisciplinary Platform for Ancient World Texts and Related Information. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, J. Schirrwagen (Eds.), _Theory and Practice of Digital Libraries - TPDL 2013 Selected Workshops (Communications in Computer and Information Science 416)_ (pp. 40–52). Springer.
+* Güney, H., & Yanık, E. (2022). New Inscriptions from Northeast Phrygia: The 2021 Survey. _Adalya_, _25_, 161–177.
 * Hämmig, A. E. (2022). A “new” Neo-Phrygian curse formula. In B. Obrador-Cursach & I.-X. Adiego (Eds.), _Phrygian linguistics and epigraphy: new insights_ (pp. 89–102). Universitat de Barcelona.
-* Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), _Handbook of Comparative and Historical Indo-European Linguistics_, 1816–1831. De Gruyter Mouton.
-* Obrador-Cursach, B. (2019). Two Unnoticed Phrygian Seals from the Borowski Collection and a Comment on Old Phrygian Dd-103. In I.-X. Adiego, J. V. García Trabazo, M. Vernet, B. Obrador-Cursach & E. Martínez Rodríguez (Eds.), _Luwic dialects and Anatolian: Inheritance and diffusion_. Universitat de Barcelona.
+* Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), _Handbook of Comparative and Historical Indo-European Linguistics_ (pp. 1816–1831). De Gruyter Mouton.
+* Obrador-Cursach, B. (2019). Two Unnoticed Phrygian Seals from the Borowski Collection and a Comment on Old Phrygian Dd-103. In I.-X. Adiego, J. V. García Trabazo, M. Vernet, B. Obrador-Cursach & E. Martínez Rodríguez (Eds.), _Luwic dialects and Anatolian: Inheritance and diffusion_ (pp. 205–214). Universitat de Barcelona.
 * Obrador-Cursach, B. (2020). _The Phrygian Language_. Brill.
+* Obrador-Cursach, B. (2021). Hypotheses of interference between Greek and the languages of Ancient Anatolia: the case of patronymics. _Journal of Language Relationship_, _19_(1), 54–70.
 * Oreshko, R. (2023). Observations on the language of the newly discovered Phrygian inscription from Gordion (G-12). _Kadmos_, _62_(1/2), 53–94.
 * Oreshko, R., Alagöz, U. (2023). A New Phrygian Inscription from Gordion: A Pergamene Contingent in Phrygia in the early Reign of Antiochus I. _Belleten_, _78_(310), 793–831.
 * Peeters, O. (2024). _Fragments and Formula: An annotated corpus for the Phrygian language_ (0832354_57760851) [Master's thesis, KU Leuven]. Teneo. https://repository.teneo.libis.be/delivery/DeliveryManagerServlet?dps_pid=IE21049119&
