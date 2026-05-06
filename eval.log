@@ -1,25 +1,25 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Phrygian-KUL:
-commit 2c46e508b87e73cfd4d13d98b0a3c34182bd8aed
-Merge: cf325ba 4a64068
+commit f1bbb197fe5ed97201180ff350794ee5480331ac
+Merge: d6b4008 97e37eb
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'xpg_kul'
 Language code (from CoNLL-U file name) = 'xpg'
 Found the following data files: xpg_kul-ud-test.conllu
-Size: counted 1687 of 1687 words (nodes).
-Size: min(0, log((N/1000)**2)) = 1.04590360712766.
+Size: counted 1921 of 1921 words (nodes).
+Size: min(0, log((N/1000)**2)) = 1.30569176757284.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 1075 out of 1687 total words have one or more features.
+Features: 1223 out of 1921 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 26 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
@@ -30,10 +30,10 @@ Validity: 1
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
-(weight=0.37037037037037) * (score{size}=0.0757050275297084) = 0.0280388990850772
+(weight=0.37037037037037) * (score{size}=0.0945091216205646) = 0.0350033783779869
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
-(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
+(weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
 (weight=0.111111111111111) * (score{udeprels}=0.702702702702703) = 0.0780780780780781
-(TOTAL score=0.433291995318566) * (availability=1) * (validity=1) = 0.433291995318566
+(TOTAL score=0.446792422323894) * (availability=1) * (validity=1) = 0.446792422323894
 STARS = 2
-UD_Phrygian-KUL	0.433291995318566	2
+UD_Phrygian-KUL	0.446792422323894	2
