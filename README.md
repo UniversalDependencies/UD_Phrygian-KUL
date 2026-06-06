@@ -4,7 +4,7 @@ UD Phrygian-KUL started as part of a Master's thesis in linguistics at KU Leuven
 
 # Introduction
 
-UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised of epigraphic material dated to ca. 8th century BCE -- 3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
+UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised of epigraphic material dated to ca. 8th century BCE – 3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
