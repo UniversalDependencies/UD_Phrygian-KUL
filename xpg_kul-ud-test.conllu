@@ -114,6 +114,33 @@
 # text = ṣarag̣iṣ
 1	ṣarag̣iṣ	saragis	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM984504-1-1
 
+# sent_id = TM757123-1
+# text = [---]e[...]alaḅịọṣ[---]
+1	[---]e	[---]e[---]	X	_	_	0	root	_	Ref=TM757123-1-1|SpaceAfter=No
+2	[...]alaḅịọṣ[---]	[---]alaḅịọṣ[---]	X	_	_	1	dep	_	Ref=TM757123-1-2
+
+# sent_id = TM757124-1
+# text = kad[---]
+1	kad[---]	kadiun[---]	PROPN	_	_	0	root	_	Ref=TM757124-1-1
+
+# sent_id = TM757125-1
+# text = amos
+1	amos	amos	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757125-1-1
+
+# sent_id = TM757126-1
+# text = di
+1	di	di	PROPN	_	_	0	root	_	Ref=TM757126-1-1
+
+# sent_id = TM1002891a-1
+# text = a𐤶iyas urakas
+1	a𐤶iyas	a𐤶iyas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM1002891a-1-1
+2	urakas	urakạ[---]	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=TM1002891a-1-2
+
+# sent_id = TM1002891b-1
+# text = a𐤶iyas urakas
+1	a𐤶iyas	a𐤶iyas	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM1002891b-1-1
+2	urakas	urakạ[---]	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM1002891b-1-2
+
 # sent_id = TM757149a-1
 # text = pseṛkeyoy atas
 1	pseṛkeyoy	pserkeyoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM757149a-1-2
@@ -162,6 +189,7 @@
 
 # sent_id = TM757257-1
 # text = per?bastidages
+# Oreshko 2024 Spindle-Whorl?
 1	per?bastidages	bastidages	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757257-1-1
 
 # sent_id = TM757258-1
