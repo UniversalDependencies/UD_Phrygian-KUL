@@ -4,11 +4,11 @@ UD Phrygian-KUL started as part of a Master's thesis in linguistics at KU Leuven
 
 # Introduction
 
-UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised of epigraphic material dating ca. 8th century BCE-3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
+UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised of epigraphic material dated to ca. 8th century BCE -- 3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
-The inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (TM; see Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a hyphen (-) and included in the MISC field. Through TM, there is little difficulty in finding the provenance and approximate date of every Phrygian inscription.
+The inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (TM; see Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a hyphen (-) and included in the MISC field. Through TM, there is little difficulty in finding the provenance and approximate date of every Phrygian inscription. Considering IDs for texts are exclusively numeric, variant readings of a single text are marked by a letter directly following the TM-identifier.
 
 # Edition
 
