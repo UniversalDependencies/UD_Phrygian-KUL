@@ -82,6 +82,6 @@ Features: manual native
 Relations: manual native
 Contributors: Peeters, Oggi
 Contributing: here
-Contact: oggi.peeters@student.kuleuven.be
+Contact: grammatocyphon@proton.me
 ===============================================================================
 </pre>
