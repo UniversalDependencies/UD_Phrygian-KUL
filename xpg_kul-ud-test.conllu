@@ -27,7 +27,7 @@
 # sent_id = TM756909-1
 # text = midas smateran tvemes eneparkes?
 1	midas	midas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM756909-1-1
-2	s	σεμουν	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM756909-1-2|SpaceAfter=No
+2	s	σεμουν	DET	_	PronType=Dem	3	det	_	Ref=TM756909-1-2|SpaceAfter=No
 3	materan	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=TM756909-1-3
 4	tvemes	tvemes	X	_	_	5	dep	_	Ref=TM756909-1-4
 5	eneparkes?	eneparkes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756909-1-5
@@ -114,6 +114,195 @@
 # text = ṣarag̣iṣ
 1	ṣarag̣iṣ	saragis	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM984504-1-1
 
+# sent_id = TM756920-1
+# text = materan areyastin bonok akenanogavọṣ vrekun tedatoy
+1	materan	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Ref=TM756920-1-1
+2	areyastin	areyastin	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	appos	_	Ref=TM756920-1-2
+3	bonok	bonok	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=TM756920-1-3
+4	akenanogavọṣ	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM756920-1-4
+5	vrekun	vrekun	NOUN	_	Case=Acc|Number=Sing	1	nmod	_	Ref=TM756920-1-5
+6	tedatoy	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM756920-1-6
+
+# sent_id = TM756920-2
+# text = yos tutut [---]ạ[.]m[.?]noy akenanogavos aey
+1	yos	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	dep	_	Ref=TM756920-2-1
+2	tutut	tutut[..]	X	_	_	4	dep	_	Ref=TM756920-2-2
+3	[---]ạ[.]m[.?]noy	[---]ạ[.]m[.?]noy	X	_	_	4	dep	_	Ref=TM756920-2-3
+4	akenanogavos	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756920-2-4
+5	aey	ituv	VERB	_	_	4	cop	_	Ref=TM756920-2-5
+
+# sent_id = TM756921-1
+# text = yos esait materey eveteksetẹy ovevin onoman daψet, lakedo key venavtun avtay materey.
+1	yos	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM756921-1-1
+2	esait	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM756921-1-2
+3	materey	matar	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	Ref=TM756921-1-3
+4	eveteksetẹy	eveteksetey	X	_	Case=Dat|Gender=Fem|Number=Sing	3	amod	_	Ref=TM756921-1-4
+5	ovevin	va	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	6	det	_	Ref=TM756921-1-5
+6	onoman	onoman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM756921-1-6
+7	daψet	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	Ref=TM756921-1-7
+8	lakedo	lakedo	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756921-1-8
+9	key	ke	CCONJ	_	_	8	cc	_	Ref=TM756921-1-9
+10	venavtun	venavtun	PRON	_	PronType=Ref	8	obj	_	Ref=TM756921-1-10
+11	avtay	αυτος	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Emp	12	det	_	Ref=TM756921-1-11
+12	materey	matar	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	Ref=TM756921-1-12
+
+# sent_id = TM756922-1
+# text = ata niyen kuryaneyon tan egertoy
+1	ata	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM756922-1-1
+2	niyen	niyen	DET	_	Case=Acc|Number=Sing|PronType=Emp	3	det	_	Ref=TM756922-1-2
+3	kuryaneyon	kuryaneyon	NOUN	_	Case=Acc|Number=Sing	4	nmod	_	Ref=Ref=TM756922-1-3
+4	tan	τος	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	obj	_	Ref=TM756922-1-4
+5	egertoy	egertoy	VERB	_	Mood=Ind|Number=Sing|Tense=Past|Person=3|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM756922-1-5
+
+# sent_id = TM756923-1
+# text = iketaios pseikạ? eḍ?[a]ẹ?s
+1	iketaios	iketaios	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=TM756923-1-1
+2	pseikạ?	pseika?	X	_	_	3	dep	_	Ref=TM756923-1-2
+3	eḍ?[a]ẹ?s	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756923-1-3
+
+# sent_id = TM756924-1
+# text = [---]m[…?].t….m[..?]m.[..].[---]
+1	[---]m[…?].t….m[..?]m.[..].[---]	[---]m[…?].t….m[..?]m.[..].[---]	X	_	_	0	root	_	Ref=TM756924-1-1
+
+# sent_id = TM756925-1
+# text = matar kubileya [...]toyen
+1	matar	matar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=TM756925-1-1
+2	kubileya	kubeleya	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	Ref=TM756925-1-2
+3	[...]toyen	[...]toyen	X	_	_	1	dep	_	Ref=TM756925-1-3
+
+# sent_id = TM756926-1
+# text = natimeyon nạ
+1	natimeyon	natimeyon	X	_	_	0	root	_	Ref=TM756926-1-1
+2	nạ	na	X	_	_	1	dep	_	Ref=TM756926-1-2
+
+# sent_id = TM756927-1
+# text = [...]nst[...] [e]daes por mạtẹ[…]
+1	[...]nst[...]	[...]nst[...]	X	_	_	2	dep	_	Ref=TM756927-1-1
+2	[e]daes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756927-1-2
+3	por	por	ADP	_	_	4	case	_	Ref=TM756927-1-3
+4	mạtẹ[…]	matar	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	Ref=TM756927-1-4
+
+# sent_id = TM756928-1
+# text = [-?-] matạṛ [-?-]
+1	[-?-]	[-?-]	X	_	_	2	dep	_	Ref=TM756928-1-1
+2	matạṛ	matar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=TM756928-1-2
+3	[-?-]	[-?-]	X	_	_	2	dep	_	Ref=TM756928-1-3
+
+# sent_id = TM756929-1
+# text = [---]ṭ[---] [---]ṇ[---] ẹsagas akenạṣ [---]
+1	[---]ṭ[---]	[---]t[---]	X	_	_	4	dep	_	Ref=TM756929-1-1
+2	[---]ṇ[---]	[---]n[---]	X	_	_	4	dep	_	Ref=TM756929-1-2
+3	ẹsagas	esagas	ADJ	_	Case=Gen|Number=Sing	4	amod	_	Ref=TM756929-1-3
+4	akenạṣ	akenan	NOUN	_	Case=Gen|Number=Sing	0	root	_	Ref=TM756929-1-4
+5	[---]	[---]	X	_	_	4	dep	_	Ref=TM756929-1-5
+
+# sent_id = TM756930-1
+# text = [-?-] ates agomoi sa𐤒?ta tedaes
+1	[-?-]	[---]	SYM	_	_	5	dep	_	Ref=TM756930-1-1
+2	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM756930-1-2
+3	agomoi	agomoi	PROPN	_ Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	Ref=TM756930-1-3
+4	sa𐤒?ta	sa𐤒ta	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	Ref=TM756930-1-4
+5	tedaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756930-1-5
+
+# sent_id = TM756930-2
+# text = alus si𐋇eto?
+1	alus	alus	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=TM756930-2-1
+2	si𐋇eto?	si𐋇eto	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM756930-2-2
+
+# sent_id = TM756930-3
+# text = bateles bab[--]
+1	bateles	bateles	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756930-3-1
+2	bab[---]	baba	PROPN	_	Gender=Masc|Number=Sing	1	nmod	_	Ref=TM756930-3-2
+
+# sent_id = TM756931-1
+# text = si𐋇eto ae alus
+1	si𐋇eto	si𐋇eto	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM756931-1-1
+2	ae	ae	X	_	_	1	dep	_	Ref=
+3	alus	alus	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TM756931-1-3
+
+# sent_id = TM756932-1a
+# text = ạtai edae leravo vi𐋇e atevo atoios
+1	ạtai	ata	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Ref=TM756932-1a-1
+2	edae	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756932-1a-2
+3	leravo	leravo	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=TM756932-1a-3
+4	vi𐋇e	vi𐋇e	X	_	_	2	dep	_	Ref=TM756932-1a-4
+5	atevo	ates	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=TM756932-1a-5
+6	atoios	atoios	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=TM756932-1a-6
+
+# sent_id = TM756932-1b
+# text = ạtai edae lelavo vi𐋇e atevo atoios
+1	ạtai	ata	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Ref=TM756932-1b-1
+2	edae	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756932-1b-2
+3	lelavo	leravo	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=TM756932-1b-3
+4	vi𐋇e	vi𐋇e	X	_	_	2	dep	_	Ref=TM756932-1b-4
+5	atevo	ates	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=TM756932-1b-5
+6	atoios	atoios	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=TM756932-1b-6
+
+# sent_id = TM756932-2
+# text = alụs si𐋇eto das
+1	alụs	alus	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=TM756932-2-1
+2	si𐋇eto	si𐋇eto	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756932-2-2
+3	das	das	X	_	_	2	dep	_	Ref=TM756932-2-3
+
+# sent_id = TM1000046-1
+# text = [.?]y[.?]agaua [-?-]tataẹ?[..?] [-?-]e[.]
+1	[.?]y[.?]agaua	[.?]y[.?]agaua	X	_	_	0	root	_	Ref=TM1000046-1-1
+2	[-?-]tataẹ?[..?]	[-?-]tataẹ?[..?]	X	_	_	1	root	_	Ref=TM1000046-1-2
+3	[-?-]e[.]	[-?-]e[.]	X	_	_	1	root	_	Ref=TM1000046-1-3
+
+# sent_id = TM984478-1
+# text = sitoros aros ispas
+1	sitoros	sitoros	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM984478-1-1
+2	aros	aros	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM984478-1-2
+3	ispas	ispas	PROPN	_	Case=Nom|Number=Sing	1	conj	_	Ref=TM984478-1-3
+
+# sent_id = TM984477-1a
+# text = pẹ/ḷim?[-?-]
+1	pẹ/ḷim?[-?-]	pelim[---]	X	_	_	0	root	_	Ref=TM984477-1a-1
+
+# sent_id = TM984477-1b
+# text = pẹ/ḷin?
+1	pẹ/ḷin?	pelim[---]	X	_	_	0	root	_	Ref=TM984477-1b-1
+
+# sent_id = W14-1
+# text = atas
+# Tamsü, Polat, Lubotsky 2020
+1	atas	atas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=W14-1-1
+
+# sent_id = W14-2
+# text = iman meu termos
+1	iman	iman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Ref=W14-2-1
+2	meu	meu	PROPN	_	Case=Gen|Gender=Masc|Number=Sing|Pers=1|PronType=Prs	2	det	_	Ref=W14-2-2
+3	termos	termos	NOUN	_	Case=Nom|Number=Sing	0	root	_	Ref=W14-2-3
+
+# sent_id = W14-3
+# text = tekiseton dagoy
+1	tekiseton	eveteksetey	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Ref=W14-3-1
+2	dagoy	dagoy	NOUN	_	Case=Nom|Number=Plur	1	nsubj	_	Ref=W14-3-2
+
+# sent_id = TM984480-1
+# text = [-?-]p [-?-]p̣?asakas
+1	[-?-]p	[-?-]p	X	_	_	2	dep	_	Ref=TM984480-1-1
+2	[-?-]p̣?asakas	[-?-]p̣?asakas	PROPN	_	Number=Sing	0	root	_	Ref=TM984480-1-2
+
+# sent_id = TM984479-1
+# text = tiṣịṣ
+1	tiṣịṣ	tisis	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM984479-1-1
+
+# sent_id = TM757247-1
+# text = [.]gat : s⸗manes iyungidas manitos apelev por niyoy esṭ[..]
+# Oreshko 2024 Mysians on the Borders of Lydia
+1	[.]gat	[.]gat	X	_	_	0	root	_	Ref=TM757247-1-1
+2	:	:	PUNCT	_	_	1	punct	_	Ref=TM757247-1-2
+3	s⸗	σεμουν	DET	_	PronType=Dem	4	det	_	Ref=TM757247-1-3|SpaceAfter=No
+4	manes	manes	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM757247-1-4
+5	iyungidas	iyungidas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	Ref=TM757247-1-5
+6	manitos	manes	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	dep	_	Ref=TM757247-1-6
+7	apelev	apelev	X	_	_	1	dep	_	Ref=TM757247-1-7
+8	por	por	ADP	_	_	9	case	_	Ref=TM757247-1-8
+9	niyoy	niyen	PRON	_	Case=Dat|Number=Sing|PronType=Emp	1	dep	_	Ref=TM757247-1-9
+10	esṭ[..]es	esṭ[..]es	X	_	_	1	dep	_	Ref=TM757247-1-10
+
 # sent_id = TM757123-1
 # text = [---]e[...]alaḅịọṣ[---]
 1	[---]e	[---]e[---]	X	_	_	0	root	_	Ref=TM757123-1-1|SpaceAfter=No
@@ -140,6 +329,14 @@
 # text = a𐤶iyas urakas
 1	a𐤶iyas	a𐤶iyas	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM1002891b-1-1
 2	urakas	urakạ[---]	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM1002891b-1-2
+
+# sent_id = TM984509-8
+# text = tata niyeṇ? ẹḍaes [---]le.[---] .
+1	tata	tata	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	Ref=TM984509-8-1
+2	niyeṇ?	niyen	PRON	_	Case=Acc|Number=Sing|PronType=Emp	3	obj	_	Ref=TM984509-8-2
+3	ẹḍaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM984509-8-3
+4	[---]le.[---]	[---]le.[---]	X	_	_	3	dep	_	Ref=TM984509-8-4
+5	.	.	PUNCT	_	_	3	punct	_	Ref=TM984509-8-5
 
 # sent_id = TM757149a-1
 # text = pseṛkeyoy atas
@@ -188,9 +385,10 @@
 1	[-?-]	[---]	SYM	_	_	0	root	_	Ref=TM984512-3-1
 
 # sent_id = TM757257-1
-# text = per?bastidages
-# Oreshko 2024 Spindle-Whorl?
-1	per?bastidages	bastidages	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757257-1-1
+# text = per basti dages
+1	per	per	ADP	_	_	2	case	_	Ref=TM757257-1-1
+2	basti	basti	PROPN	_	Case=Dat|Number=Sing	3	orphan	_	Ref=TM757257-1-2
+3	dages	dages	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757257-1-3
 
 # sent_id = TM757258-1
 # text = midas aiasay mạ..uṇ
@@ -244,44 +442,44 @@
 
 # sent_id = TM757270-1
 # text = 30? ...ẹkẹs
-1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-1-1
+1	30?	30	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-1-1
 2	...ẹkẹs	[---]ekes	NOUN	_	Case=Nom|Number=Plur	0	root	_	Ref=TM757270-1-2
 
 # sent_id = TM757270-2
 # text = 30? i?..
-1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-2-1
+1	30?	30	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-2-1
 2	i?..	i[---]	NOUN	_	_	0	root	_	Ref=TM757270-2-2
 
 # sent_id = TM757270-3
 # text = 30? ṿ?ṛ?ekeṣ .
-1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-3-1
+1	30?	30	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-3-1
 2	ṿ?ṛ?ekeṣ	vrekun	NOUN	_	Case=Nom|Number=Plur	0	root	_	Ref=TM757270-3-2
 3	.	[---]	SYM	_	_	2	dep	_	Ref=TM757270-3-3
 
 # sent_id = TM757270-4
 # text = 30? knays
-1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-4-1
+1	30?	30	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-4-1
 2	knays	knais	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Ref=TM757270-4-2
 
 # sent_id = TM757270-5
 # text = 30? ṣ?i?ṿ?ṛ?i
-1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-5-1
+1	30?	30	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-5-1
 2	ṣ?i?ṿ?ṛ?i	i?ṿ?ṛ?i	NOUN	_	_	0	root	_	Ref=TM757270-5-2
 
 # sent_id = TM757270-6
 # text = 40? knạỵḳẹ?[s]? .?
-1	40?	40	NUM	_	_	2	amod	_	Ref=TM757270-6-1
+1	40?	40	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-6-1
 2	knạỵḳẹ?[s]?	knais	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Ref=TM757270-6-2
 3	.?	[---]	SYM	_	_	2	dep	_	Ref=TM757270-6-3
 
 # sent_id = TM757270-7
 # text = 40? m?akeṛes
-1	40?	40	NUM	_	_	2	amod	_	Ref=TM757270-7-1
+1	40?	40	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-7-1
 2	m?akeṛes	m?akeṛes	NOUN	_	Case=Nom|Number=Plur	0	root	_	Ref=TM757270-7-2
 
 # sent_id = TM757270-8
 # text = 40? [---]
-1	40?	40	NUM	_	_	2	amod	_	Ref=TM757270-8-1
+1	40?	40	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-8-1
 2	[---]	[---]	SYM	_	_	0	root	_	Ref=TM757270-8-2
 
 # sent_id = TM757270-9
@@ -376,15 +574,14 @@
 1	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-1-2
 2	antiyokoy	antiyokoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-2
 3	∙	∙	PUNCT	_	_	1	punct	_	Ref=TM1001271-1-3
-4-5	Silẹṿkoỵ-kẹỵ	_	_	_	_	_	_	_	_
 4	Silẹṿkoỵ	Silevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4
-5	kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
+5	-kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
 
 # sent_id = TM1001271-2
 # text = [...]n manaṇ mlalin Sit-t [...]
 1	[...]n	[...]n	X	_	_	0	root	_	Ref=TM1001271-2-1
 2	manaṇ	manan	NOUN	Case=Acc|Number=Sing	_	1	dep	_	Ref=TM1001271-2-2
-3	mlalin	_	ADJ	Case=Acc|Number=Sing	_	2	amod	_	Ref=TM1001271-2-3
+3	mlalin	_	ADJ	Case=Acc|Foreign=Yes|Number=Sing	_	2	amod	_	OrigLang=xld|Ref=TM1001271-2-3
 4	Sit	_	DET	_	PronType=Dem	1	dep	_	Ref=TM1001271-2-4|SpaceAfter=No
 5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-2-5
 6	[...]	[...]	SYM	_	_	1	dep	_	Ref=TM1001271-2-6
@@ -397,9 +594,8 @@
 # sent_id = TM1001271-4
 # text = eḳ ṃroteS-key [...]
 1	eḳ	eḳ	ADV	_	_	4	advmod	_	Ref=TM1001271-4-1
-2-3	ṃroteS-key	_	_	_	_	_	_	_	_
 2	ṃroteS	μροτις	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TM1001271-4-2
-3	key	ke	CCONJ	_	_	2	cc	_	Ref=TM1001271-4-3
+3	-key	ke	CCONJ	_	_	2	cc	_	Ref=TM1001271-4-3
 4	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-4-3
 
 # sent_id = TM1001271-5
@@ -410,9 +606,8 @@
 
 # sent_id = TM1001271-6
 # text = eS-k ṃrey veiṢ-t perkạmạṇeiṣ [...]
-1-2	eS-k	_	_	_	_	_	_	_	_
-1	eS	ešt	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM1001271-6-1
-2	k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
+1	eS	ešt	DET	_	Case=Acc|Gender=Neut|Foreign=Yes|Number=Sing|PronType=Dem	3	det	_	OrigLang=xld|Ref=TM1001271-6-1
+2	-k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
 3	ṃrey	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM1001271-6-3
 4	veiṢ	va	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	Ref=TM1001271-6-4|SpaceAfter=No
 5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-6-5
@@ -430,26 +625,23 @@
 
 # sent_id = TM1001271-8
 # text = [...]ṇin-key oḷvomun ∙
-1-2	[...]ṇin-key	_	_	_	_	_	_	_	_
 1	[...]ṇin	[...]nin	NOUN	_	Case=Acc|Number=Sing	0	root	_	Ref=TM1001271-8-1
-2	key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-8-2
+2	-key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-8-2
 3	oḷvomun	olvomun	NOUN	_	Case=Acc|Number=Sing	1	dep	_	Ref=TM1001271-8-3
 4	∙	∙	SYM	_	_	1	dep	_	Ref=TM1001271-8-4
 
 # sent_id = TM1001271-9
 # text = opoS-key iḅẹy [...]
-1-2	opoS-key	_	_	_	_	_	_	_	_
 1	opoS	opos	NOUN	_	Gender=Neut|Number=Plur	4	dep	_	Ref=TM1001271-9-1
-2	key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-9-2
+2	-key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-9-2
 3	iḅẹy	ibey	ADV	_	_	4	advmod	_	Ref=TM1001271-9-3
 4	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-9-4
 
 # sent_id = TM1001271-10
 # text = [...]ọy ạẹỵ-t maneis
 1	[...]ọy	[...]ọy	X	_	_	0	root	_	Ref=TM1001271-10-1
-2-3	ạẹỵ-t	_	_	_	_	_	_	_	_
 2	ạẹỵ	aey	ADP	_	ExtPos=ADP	4	case	_	Ref=TM1001271-10-2
-3	t	t	ADV	_	_	2	advmod	_	Ref=TM1001271-10-3
+3	-t	t	ADV	_	_	2	advmod	_	Ref=TM1001271-10-3
 4	maneis	manan	NOUN	_	Case=Acc|Number=Plur	1	obl	_	Ref=TM1001271-10-4
 
 # sent_id = TM867450-1
@@ -970,7 +1162,7 @@
 30	τευτωσι	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	dep	_	Ref=TM984535-1-30
 31	ιε[.]ν̣ο̣υταις	ιε[.]νουταις	X	_	_	1	dep	_	Ref=TM984535-1-31
 32	εδαες	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	dep	_	Ref=TM984535-1-32
-33	πινκε	πινκε	NUM	_	NumType=Ord	1	dep	_	Ref=TM984535-1-33
+33	πινκε	πινκε	NUM	_	NumForm=Word|NumType=Card	1	dep	_	Ref=TM984535-1-33
 34	τας	τος	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	1	dep	_	Ref=TM984535-1-34
 35	δ̣[α?]κ̣ερης	daker	NOUN	_	Case=Nom|Number=Plur	1	dep	_	Ref=TM984535-1-35
 36	ονομανιαις	ονομανιας	NOUN	_	Case=Acc|Number=Plur	1	dep	_	Ref=TM984535-1-36
