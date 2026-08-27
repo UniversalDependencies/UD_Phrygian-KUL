@@ -14,7 +14,7 @@ The inscriptions can be linked to various metadata through stable identifiers pr
 
 The data are based mainly on the aforementioned editions. Some changes have been made, however, in order to keep up with new insights and to quell compatibility issues.
 
-Of the Old Phrygian subcorpus, so far only the inscriptions from Provenances Midas City (M), Diverse documents (Dd) and Outside of Phrygia (HP) are included. The readings for Dd-103, -104 and -105 are provided by Obrador-Cursach (2019), while the more recent interpretation of _Pserkeyoy_/_Pseukeyoy_ (Dd-101) and _Surgastoy_ (Dd-102) as patronymics come from Obrador-Cursach (2021, pp. 66–68) and Oreshko (2023, pp. 55–62).
+Of the Old Phrygian subcorpus, so far only the inscriptions from Provenances Midas City (M), West-Phrygia (W), Diverse documents (Dd) and Outside of Phrygia (HP) are included. The readings for Dd-103, -104 and -105 are provided by Obrador-Cursach (2019), while the more recent interpretation of _Pserkeyoy_/_Pseukeyoy_ (Dd-101) and _Surgastoy_ (Dd-102) as patronymics come from Obrador-Cursach (2021, pp. 66–68) and Oreshko (2023, pp. 55–62). The readings for the prepositions _per_ and _por_ in W-01c, B-07, K-01 and HP-101 are adapted based on Oreshko (2024).
 
 In their edition of G-12, Oreshko and Alagöz (2023) use ś to represent a modified s-sign of the Phrygian alphabet. This is, however, impractical for UD, as there is no single combined Unicode character that combines an acute and an underdot, which is necessary in order to comply with the Leiden Editorial Conventions. For this reason, these data deviate from the edition in that the original ś is replaced by a capital letter S. Considering there is no convention for the use of capital letters in Phrygian, this is a way to preserve the distinction in the G-12 inscription between the s-signs as well as to underdot them (Ṣ).
 
@@ -49,13 +49,17 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 * Obrador-Cursach, B. (2020). _The Phrygian Language_. Brill.
 * Obrador-Cursach, B. (2021). Hypotheses of interference between Greek and the languages of Ancient Anatolia: the case of patronymics. _Journal of Language Relationship_, _19_(1), 54–70.
 * Oreshko, R. (2023). Observations on the language of the newly discovered Phrygian inscription from Gordion (G-12). _Kadmos_, _62_(1/2), 53–94.
+* Oreshko, R. (2024). Mysians on the Borders of Lydia: The 'Old-Phrygian' Inscription on the Spindle-Whorl from the Thyateira Region (HP-101) Revisited. _Altorientalische Forschungen_, _51_(2), 221–238.
 * Oreshko, R., Alagöz, U. (2023). A New Phrygian Inscription from Gordion: A Pergamene Contingent in Phrygia in the early Reign of Antiochus I. _Belleten_, _78_(310), 793–831.
 * Peeters, O. (2024). _Fragments and Formula: An annotated corpus for the Phrygian language_ (0832354_57760851) [Master's thesis, KU Leuven]. Teneo. https://repository.teneo.libis.be/delivery/DeliveryManagerServlet?dps_pid=IE21049119&
 
 # Changelog
 
+* 2026-11-15 v2.19
+  * Corrections in annotation.
+  * Old Phrygian texts added (Provenance W; B-07-1, K-01-8).
 * 2026-05-15 v2.18
-  * Corrections in annotation
+  * Corrections in annotation.
   * Fixed readability of TM-identifiers in MISC-field.
   * Old Phrygian texts added (Provenances M, Dd including -104 and -105, HP).
   * Middle Phrygian texts added (W-11, G-12).
