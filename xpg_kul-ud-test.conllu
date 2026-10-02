@@ -272,7 +272,7 @@
 # sent_id = W14-2
 # text = iman meu termos
 1	iman	iman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Ref=W14-2-1
-2	meu	meu	PROPN	_	Case=Gen|Gender=Masc|Number=Sing|Pers=1|PronType=Prs	1	det	_	Ref=W14-2-2
+2	meu	meu	DET	_	Case=Gen|Gender=Masc|Number=Sing|Pers=1|PronType=Prs	1	det	_	Ref=W14-2-2
 3	termos	termos	NOUN	_	Case=Nom|Number=Sing	0	root	_	Ref=W14-2-3
 
 # sent_id = W14-3
